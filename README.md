@@ -1,0 +1,2 @@
+# python-spreadsheet
+Pythonでスプレッドシートと連携しを読みこみ書きこみのやり方試す
